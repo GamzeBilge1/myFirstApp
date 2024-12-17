@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gamze\\source\\repos\\\u0130lk Uygulamam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09309C0B-F92D-48E6-A49D-D22BDED389AA}|\u0130lk Uygulamam\\\u0130lk Uygulamam.csproj|c:\\users\\gamze\\source\\repos\\\u0130lk uygulamam\\\u0130lk uygulamam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09309C0B-F92D-48E6-A49D-D22BDED389AA}|\u0130lk Uygulamam\\\u0130lk Uygulamam.csproj|solutionrelative:\u0130lk uygulamam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gamze\\source\\repos\\\u0130lk Uygulamam\\\u0130lk Uygulamam\\Program.cs",
+              "RelativeDocumentMoniker": "\u0130lk Uygulamam\\Program.cs",
+              "ToolTip": "C:\\Users\\Gamze\\source\\repos\\\u0130lk Uygulamam\\\u0130lk Uygulamam\\Program.cs",
+              "RelativeToolTip": "\u0130lk Uygulamam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:54:45.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
